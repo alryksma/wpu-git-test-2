@@ -21,6 +21,7 @@
     <body>
         <header>
             <h1 class="d1">efwefwfe</h1>
+            <p class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore omnis laudantium temporibus quis qui consequatur illo quos asperiores non, placeat facilis labore quaerat nisi eos dicta repellendus aspernatur maxime expedita.</p>
         </header>
         <main></main>
         <footer>
